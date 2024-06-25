@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "💀 David John Hulatt",
+    pageTitle: "David John Hulatt",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "en-GB",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -61,7 +61,7 @@ const config: QuartzConfig = {
           light: "github-light",
           dark: "github-dark",
         },
-        keepBackground: false,
+        keepBackground: true,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
