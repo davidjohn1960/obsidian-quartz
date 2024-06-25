@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "David John Hulatt",
+    pageTitle: "David Hulatt",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -59,7 +59,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "github-dark",
+          dark: "material-theme-ocean",
         },
         keepBackground: false,
       }),
