@@ -21,4 +21,6 @@ This site will be used as a personal blog and to test out publishing with Quartz
 - [ ] Task 3
 
 - [*] Should have been displayed as bookmark. 
+🏵️ What if I can get the above to work in Quartz correctly by using some css. 
+
 
