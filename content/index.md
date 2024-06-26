@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Welcome Page
 ---
+***
+# Here We Are
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+To start with I would recommend that you read [[Read Me]] first.
+
+## Testing Static Data
+
+![[Bill_20182812 - 20240624.pdf]]
