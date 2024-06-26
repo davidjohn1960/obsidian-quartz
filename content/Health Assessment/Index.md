@@ -4,6 +4,7 @@ longform:
   title: Health Assessment
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Introduction
   ignoredFiles: []
 ---
