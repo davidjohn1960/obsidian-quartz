@@ -2,6 +2,7 @@
 title: Welcome Page
 ---
 ***
+![[avatar.512.png|75x75]]
 # Here We Are
 
 To start with I would recommend that you read [[Read Me]] first.
