@@ -24,7 +24,9 @@ This site will be used as a personal blog and to test out publishing with Quartz
 🏵️ What if I can get the above to work in Quartz correctly by using some css. 
 
 
-![PDF from Paperless](http://192.168.1.253:8005/share/YCkeVowaC6nTydmhEWwCEDTpG8PWnPz0wuReAd3O70vzNaHnDU)
+[PDF from Paperless](http://192.168.1.253:8005/share/YCkeVowaC6nTydmhEWwCEDTpG8PWnPz0wuReAd3O70vzNaHnDU)
 
-![Council Tax Bill from fileshare](https://fileshare.djh1960.win/s/CouncilTax2024June)
+[Council Tax Bill from fileshare](https://fileshare.djh1960.win/s/CouncilTax2024June)
 [Council tax bill June 2024](https://fileshare.djh1960.win/s/CouncilTax2024June)
+
+![[Bill_20182812 - 20240624.pdf]]
