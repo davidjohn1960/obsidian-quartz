@@ -9,11 +9,11 @@ To start with I would recommend that you read [[Read Me]] first.
 
 ## Testing Static Data
 
-[[Bill_20182812 - 20240624.pdf]]
+[[Bill_20182812 - 20240624.pdf|Council Tax Bill]]
 
 Not sure where to place static data like pdfs and images 
 
-[[bg.webp]]
+[[bg.webp|Background Picture]]
 
 I wanted to use this image as a background, not sure how to achieve this 
 

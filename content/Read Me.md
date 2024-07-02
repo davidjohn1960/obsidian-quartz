@@ -14,11 +14,11 @@ This site will be used as a personal blog and to test out publishing with Quartz
 
 ***
 ## Related Tasks
-- [ ] Task 1
-- [ ] sub task A
-- [ ] sub task B
-- [ ] Task 2
-- [ ] Task 3
+- [-] Task 1
+- [x] sub task A ✅ 2024-07-02
+- [?] sub task B
+- [!] Task 2
+- [>] Task 3
 
 - [*] Should have been displayed as bookmark. 
 🏵️ What if I can get the above to work in Quartz correctly by using some css. 
