@@ -1,6 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-.callout-content {
-  background-color: var(--light) !important;
-}
+.callout {
+    & > .callout-content > :first-child {
+    background-color: var(--light) !important;
+  }
