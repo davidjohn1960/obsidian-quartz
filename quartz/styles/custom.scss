@@ -2,13 +2,13 @@
 
 // put your custom CSS here!
 .callout {
-    .callout-content {
-        border: 1px solid pink;
-        margin: 1em !important;
-    }
-    .callout-content p {
+    & > .callout-content {
+            border: 1px solid pink !important;
+            margin: 1em !important;
+        & > p {
         background-color: var(--light) !important;
-        border: 1px solid var(--border);
+        border: 1px solid var(--border) !important;
         padding: 1em !important;
+        }
     }
   }
