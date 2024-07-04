@@ -1,3 +1,15 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.callout {
+    & > .callout-content {
+        border-color: pink !important;
+        border-size: 1px !important;
+        margin: 1em !important;
+    }
+    & > .callout-content > :first-child {
+        background-color: var(--light) !important;
+        border-color: green !important;
+        border-size: 1px !important;
+        padding: 1em !important;
+  }
