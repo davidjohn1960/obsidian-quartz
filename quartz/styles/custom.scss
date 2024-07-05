@@ -3,12 +3,12 @@
 // put your custom CSS here!
 .callout {
     & > .callout-content {
-            background: var(--light) !important;
-            border: 1px solid var(--border) !important;
-            border-radius: 2px !important;
-  //          margin-bottom: 1em !important;
+            background: var(--light);
+            border: 1px solid var(--border);
+            border-radius: 2px;
+            margin-bottom: 1em;
         & > p {
-            padding: 0.5em;
+            padding: 0.5em, 0.5em, 0em, 0.5em;
         }
     }
 }
